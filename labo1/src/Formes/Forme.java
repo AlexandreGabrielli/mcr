@@ -12,7 +12,7 @@ public abstract class Forme implements Bouncable {
     protected Color color;
 
     protected int largeur;
-    protected int dx, dy;
+    private int dx, dy;
     protected int x, y;
     protected Shape shape;
 

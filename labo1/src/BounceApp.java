@@ -2,14 +2,12 @@ import Fabrique.FabriqueFormeVide;
 import Formes.Bouncable;
 import Fabrique.FabriqueForme;
 import Fabrique.FabriqueFormePlein;
-import Formes.Forme;
 import Singleton.Rebond;
 
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 import java.util.ArrayList;
 import java.util.ConcurrentModificationException;
-import java.util.LinkedList;
 import java.util.List;
 
 /**
